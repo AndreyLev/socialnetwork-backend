@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/AndreyLev/socialnetwork-backend.svg?branch=master)](https://travis-ci.org/AndreyLev/socialnetwork-backend)
